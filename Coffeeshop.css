@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Pushster&family=Qwitcher+Grypen:wght@700&family=Shizuru&family=The+Nautigal:wght@700&family=Vujahday+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap');
+/* body{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(./Coffee\ project\ Images/bg3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+} */
+.section{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(./Coffee\ project\ Images/bg3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+.container{
+    max-width: 1300px;
+    padding: 20px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: rgb(22, 17, 17);
+
+}
+.navbar-menu a:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(37, 22, 32);
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Luxurious Roman', cursive;
+}
+
+.navbar-menu{ 
+    color: #fff;
+    font-size: 13px;
+    font-family: 'Spline Sans', sans-serif;
+    font-weight: 100;
+    padding: 12px 15px;
+    border-radius: 2px;
+    display: inline-block;
+    text-transform: uppercase;
+    transition: 0.4s;
+}
+
+a {
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+}
+
+.description{ 
+    top: 50%;
+    left: 50%;
+    padding: 0 70px;
+    text-align: center;
+}
+
+.description h2{
+    font-size: 70px;
+    font-family: 'The Nautigal', cursive;
+    font-weight: 100;
+    color: white;
+    letter-spacing: 2px;
+    line-height: 50px;
+}
+.description h1{
+    font-size: 70px;
+    font-family: 'The Nautigal', cursive;
+    font-weight:700;
+    color: white;
+    letter-spacing: 5px;
+    line-height: 70px;
+    /* text-transform: uppercase; */
+}
+.description p{
+    font-size: 20px;
+    font-family: 'Pushster', cursive;
+    font-weight: 100;
+    color: white;
+    letter-spacing: 2px;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+.menu{
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Moon Dance', cursive;
+}
+.box1{
+    padding-left: 176px;
+    margin-top: 60px;
+    padding-right: 100px;
+    height: 411px;
+    background-color: rgb(207, 186, 186);
+}
+.box2{
+    padding-right: 92px;
+    padding-left: 20px;
+    margin-left: 769px;
+    margin-top: -181px;
+    background-color: rgb(176 150 138);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.box3{
+    padding-left: 176px;
+    margin-top: 60px;
+    padding-right: 100px;
+    height: 411px;
+    background-color: rgb(207, 186, 186);
+}
+.box4{
+    padding-right: 92px;
+    padding-left: 20px;
+    margin-left: 769px;
+    margin-top: -181px;
+    background-color: rgb(176 150 138);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.box5{
+    padding-left: 176px;
+    margin-top: 60px;
+    padding-right: 100px;
+    height: 411px;
+    background-color: rgb(207, 186, 186);
+
+}
+.box6{
+    padding-right: 92px;
+    padding-left: 20px;
+    margin-left: 769px;
+    margin-top: -181px;
+    background-color: rgb(176 150 138);
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+.pic1{
+    height: 200px;
+    width: 300px;
+
+}
+.pic2{
+    height: 200px;
+    width: 300px;
+
+}
+.pic3{
+    height: 200px;
+    width: 300px;
+}
+.pic4{
+    height: 200px;
+    width: 300px;
+
+}
+.pic5{
+    height: 200px;
+    width: 300px;
+
+}
+.pic6{
+    height: 200px;
+    width: 300px;
+} 
+
+* {
+    box-sizing: border-box;
+  }
+
+.endgame{
+    background-color: rgb(206, 146, 104);
+}
+.endcol{
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; 
+  background-color: rgb(206, 146, 104);
+}
+
